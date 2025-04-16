@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28a85e4105be11e409d8691b97a2d067
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsPanel: {instanceID: 0}
+  - howToPlayPanel: {instanceID: 0}
+  - savesPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
